@@ -26,9 +26,13 @@ Alternatively, click on `read.bat` to run it.
 ## Keyboard Bindings
 
 ? - help
+
 o - choose chapter
+
 esc - exit
+
 up/down - scroll
+
 left/right - previous/next chapter.
 
 ## License
