@@ -1,6 +1,6 @@
 # About Dhammapada for Terminal
 
-Read the Dhammapada in your terminal with [MDPresent](https://github/kevinkoosk/mdpresent), my terminal markdown tool.
+Read the Dhammapada in your terminal with [MDPresent](https://github.com/kevinkoosk/mdpresent), my terminal markdown tool.
 
 The Dhammapada is one of the basic texts of Buddhism.
 
